@@ -1,8 +1,0 @@
-class SpeakerRunner
-{
-public static void main(string[] values)
-{
-System.out.println("Speaker starts to speaking loudly");
-Speaker.speaking();
-}
-}
