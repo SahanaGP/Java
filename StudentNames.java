@@ -1,0 +1,4 @@
+enum StudentNames
+{
+	SAHANA,SANGEETHA,POOJA,NISHU,SUDEEP,MANASA;
+}
