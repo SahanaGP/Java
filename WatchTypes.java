@@ -1,0 +1,4 @@
+enum WatchTypes
+{
+  ANALOG,DIGITAL,QUARTZ,SMART,AUTOMATIC;
+}
